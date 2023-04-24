@@ -11,9 +11,14 @@ Initial Security()
  //Security Patch Code Updated
 }
 
-Feature1 Code(){
+Feature1 Code()
+{
  //Feature 1 Code
+}
 
+Feature2 Code()
+{
+//Feature2 Code
 }
 
 }
